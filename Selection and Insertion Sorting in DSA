@@ -28,7 +28,7 @@ class SelectionSort{
     }
 }
 
-Insertion Sort:
+Insertion Sort Codes:
 
 import java.util.*;
 class InsertionSort{
